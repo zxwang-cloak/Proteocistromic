@@ -21,7 +21,7 @@ final_km <- kmeans(data_for_clustering, centers = best_k)
 data_for_clustering$cluster <- as.factor(final_km$cluster)
 write.table(data_for_clustering, file = "Fig2G-cluster.txt", quote = F, sep = "\t", row.names = FALSE)
 
-pdf("V3-cluster.pdf", height = 5, width = 6)
+pdf("Fig2G.pdf", height = 5, width = 6)
 ggparcoord(data_for_clustering, columns = 1:5, groupColumn = 6, 
            scale = "globalminmax", showPoints = TRUE, 
            title = "Parallel Coordinates Plot for Clustering") +
