@@ -1,3 +1,0 @@
-group_name	target	replicate_number	bam_name	bed_name
-treat	treat	1	/home/u41546/ZixianWang/Project/ChIP-seq/293T/FOR_PUBLICATION/ExactName_bam/treat.df.bam	/home/u41546/ZixianWang/Project/ChIP-seq/293T/FOR_PUBLICATION/ExactName_narrowPeak/treat_peaks.narrowPeak
-treat	treat	2	/home/u41546/ZixianWang/Project/ChIP-seq/293T/FOR_PUBLICATION/ExactName_bam/treat.df.bam	/home/u41546/ZixianWang/Project/ChIP-seq/293T/FOR_PUBLICATION/ExactName_narrowPeak/treat_peaks.narrowPeak
