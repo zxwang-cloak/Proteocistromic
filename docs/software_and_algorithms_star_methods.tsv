@@ -1,0 +1,30 @@
+software_or_algorithm	source	identifier
+BaalChIP version 1.24.0	de Santiago et al. (2017)	https://bioconductor.org/packages/release/bioc/html/BaalChIP.html
+BEDTools version 2.30.0	Quinlan et al. (2010)	https://bedtools.readthedocs.io/
+Bowtie2 version 2.2.5	Langmead et al. (2012)	https://bowtie-bio.sourceforge.net/bowtie2
+CentriMo version 5.0.2	Bailey et al. (2012)	https://meme-suite.org/meme/doc/centrimo.html
+ChIPseeker version 1.33.1	Bioconductor	https://bioconductor.org/packages/release/bioc/html/ChIPseeker.html
+Circos version 0.69-6	Krzywinski et al. (2009)	https://circos.ca/
+ComplexHeatmap version 2.6.2	Bioconductor	https://bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html
+CRAPome version 2.0	Mellacheruvu et al. (2013)	https://reprint-apms.org/?q=chooseworkflow
+Cytoscape version 3.7	Shannon et al. (2003)	http://www.cytoscape.org/
+deepTools version 3.5.2	Ramírez et al. (2014)	https://deeptools.readthedocs.io/
+EEL version 1.1	Hallikas et al. (2006)	https://www.cs.helsinki.fi/u/kpalin/EEL/
+FastQC version 0.11.9	Bioinformatics Group at the Babraham Institute	https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+Fragpipe version 17	Kong et al. (2017)	https://fragpipe.nesvilab.org/
+GGally version 2.2.0	CRAN	https://rdrr.io/cran/GGally/
+ggplot2 version 3.4.4	CRAN	https://cran.r-project.org/web/packages/ggplot2
+HOMER version 4.11.1	Heinz et al. (2010)	http://homer.ucsd.edu/homer/
+IGV version 2.12.3	Thorvaldsdóttir et al. (2013)	https://igv.org/
+MACS2 version 2.1.4	Zhang et al. (2008)	https://pypi.org/project/MACS2/
+MCL version 22-282	https://epubs.siam.org/doi/10.1137/040608635	https://micans.org/mcl/
+MEME-ChIP version 5.0.5	Machanick et al. (2011)	https://meme-suite.org/meme
+MultiQC version 1.13.dev0	Ewels et al. (2016)	https://multiqc.info/
+Picard version 2.25.1	Broad Institute	https://broadinstitute.github.io/picard/
+R version 4.0.5	R	https://www.r-project.org/
+SAINTexpress version 3.6	Choi et al. (2011)	http://saint‐apms.sourceforge.net/Main.html
+SAMtools  version 1.9	Danecek et al. (2021)	https://www.htslib.org/
+survival version 3.2.10	CRAN	https://cran.r-project.org/web/packages/survival
+TrimGalore version 0.6.7	Bioinformatics Group at the Babraham Institute	https://www.bioinformatics.babraham.ac.uk/projects/trim_galore/
+umap version 0.2.10.0	CRAN	https://cran.r-project.org/web/packages/umap
+Xcalibur version 2.7.0	Thermo Fisher Scientific	https://www.Thermo Fisher.com/fi/en/home.html
