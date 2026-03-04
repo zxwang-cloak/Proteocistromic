@@ -1,0 +1,6 @@
+tool	version
+R	4.0.5
+BaalChIP	1.24.0
+Bowtie2	2.2.5
+SAMtools	1.9
+Picard	2.25.1

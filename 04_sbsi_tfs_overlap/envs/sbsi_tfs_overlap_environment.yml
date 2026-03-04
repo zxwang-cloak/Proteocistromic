@@ -1,0 +1,9 @@
+name: sbsi-tfs-overlap
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - bedtools=2.30.0
+  - gawk
+  - bash

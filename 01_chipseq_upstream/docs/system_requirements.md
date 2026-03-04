@@ -1,0 +1,22 @@
+# System requirements (Module 01)
+
+## Tested software versions
+- FastQC 0.11.9
+- TrimGalore 0.6.7
+- Bowtie2 2.2.5
+- SAMtools 1.9
+- Picard 2.25.1
+- deepTools 3.5.2
+- MACS2 2.1.4
+- BEDTools 2.30.0
+- HOMER 4.11.1
+- MEME-ChIP 5.0.5
+- CentriMo 5.0.2
+- MultiQC 1.13.dev0
+
+## Operating system
+- Linux is recommended.
+- The pipeline assumes standard command-line access to Java and common GNU core utilities.
+
+## Non-standard hardware
+- None required.

@@ -1,0 +1,14 @@
+name: tfpair-spacing
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - biopython=1.77
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - bedtools=2.30.0
