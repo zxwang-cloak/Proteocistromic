@@ -65,10 +65,3 @@ nature-code-repository/
     ├── 04_sbsi_tfs_overlap/
     └── 05_mcl_community/
 ```
-
-## Notes for public release
-
-- The code comments in the refactored scripts are written in English.
-- Site-specific absolute paths from the original scripts were replaced by module-level configuration files.
-- Original author-provided scripts are retained under `legacy/` whenever they were available in the uploaded materials.
-- Replace the placeholder GitHub URL, repository title, and author list before public release.
