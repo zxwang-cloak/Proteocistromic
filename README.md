@@ -1,8 +1,3 @@
-# Nature manuscript analysis code repository
-
-This repository packages the analysis code discussed in the manuscript into reviewer-friendly, GitHub-ready modules.
-The layout is designed to satisfy common Nature-family code availability requirements: source code is organized by analysis module, configuration is explicit, original scripts are retained under `legacy/`, and module-level README files describe dependencies, demo execution, and expected outputs.
-
 ## Packaged modules
 
 - `modules/01_chipseq_upstream` - ChIP-seq upstream processing from raw FASTQ to QC, alignment, peak calling, annotation, and motif analysis
