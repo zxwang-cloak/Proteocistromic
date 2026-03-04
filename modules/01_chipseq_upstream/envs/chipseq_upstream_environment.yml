@@ -1,0 +1,19 @@
+name: chipseq-upstream
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - fastqc=0.11.9
+  - trim-galore=0.6.7
+  - bowtie2=2.2.5
+  - samtools=1.9
+  - picard=2.25.1
+  - deeptools=3.5.2
+  - macs2=2.1.4
+  - bedtools=2.30.0
+  - meme=5.0.5
+  - ucsc-bedgraphtobigwig
+  - multiqc=1.13
+  - openjdk
+  - pigz
