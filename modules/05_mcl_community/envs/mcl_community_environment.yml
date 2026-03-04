@@ -1,0 +1,9 @@
+name: mcl-community
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - mcl=22.282
+  - python=3.10
+  - r-base=4.0.5
