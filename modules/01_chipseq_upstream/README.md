@@ -1,7 +1,5 @@
 # Module 01 - ChIP-seq upstream analysis
 
-This module packages the ChIP-seq upstream workflow used for the manuscript into a GitHub-ready, reviewer-friendly structure.
-
 The pipeline performs:
 
 
