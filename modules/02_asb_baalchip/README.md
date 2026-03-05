@@ -1,6 +1,5 @@
 # Module 02 — Allele-specific binding (ASB) analysis using BaalChIP
 
-This module packages the ASB pipeline based on **BaalChIP** for reproducible execution and sharing (e.g., Nature Research code availability requirements).
 
 ## What the original `work.sh` did (for reference)
 
