@@ -1,25 +1,26 @@
 module	tool	version	note
-01_chipseq_upstream	FastQC	0.11.9	STAR Methods software table
-01_chipseq_upstream	TrimGalore	0.6.7	STAR Methods software table
-01_chipseq_upstream	Bowtie2	2.2.5	STAR Methods software table
-01_chipseq_upstream	SAMtools	1.9	STAR Methods software table
-01_chipseq_upstream	Picard	2.25.1	STAR Methods software table
-01_chipseq_upstream	deepTools	3.5.2	STAR Methods software table
-01_chipseq_upstream	MACS2	2.1.4	STAR Methods software table
-01_chipseq_upstream	BEDTools	2.30.0	STAR Methods software table
-01_chipseq_upstream	HOMER	4.11.1	STAR Methods software table
-01_chipseq_upstream	MEME-ChIP	5.0.5	STAR Methods software table
-01_chipseq_upstream	CentriMo	5.0.2	STAR Methods software table
-01_chipseq_upstream	MultiQC	1.13.dev0	STAR Methods software table
-02_asb_baalchip	R	4.0.5	STAR Methods software table
-02_asb_baalchip	BaalChIP	1.24.0	STAR Methods software table
-02_asb_baalchip	Bowtie2	2.2.5	External dependency used by filterIntbias
-02_asb_baalchip	SAMtools	1.9	Input BAM preparation dependency
-02_asb_baalchip	Picard	2.25.1	External dependency used by filterIntbias
-03_tfpair_spacing	HOMER	4.11.1	mergePeaks utility
-03_tfpair_spacing	BEDTools	2.30.0	Input BED/peak preprocessing when needed
-03_tfpair_spacing	JASPAR motif collection	release referenced in STAR Methods	Motif database resource
-03_tfpair_spacing	Spacing pipeline (TF pairs calling)	manuscript-specific wrapper	Based on Shen et al. pipeline referenced in STAR Methods
-04_sbsi_tfs_overlap	BEDTools	2.30.0	STAR Methods software table
-05_mcl_community	MCL	22-282	STAR Methods software table
-05_mcl_community	R	4.0.5	STAR Methods software table
+01_chipseq_upstream	FastQC	0.11.9
+01_chipseq_upstream	TrimGalore	0.6.7
+01_chipseq_upstream	Bowtie2	2.2.5
+01_chipseq_upstream	SAMtools	1.9
+01_chipseq_upstream	Picard	2.25.1
+01_chipseq_upstream	deepTools	3.5.2
+01_chipseq_upstream	MACS2	2.1.4
+01_chipseq_upstream	BEDTools	2.30.0
+01_chipseq_upstream	HOMER	4.11.1
+01_chipseq_upstream	MEME-ChIP	5.0.5
+01_chipseq_upstream	CentriMo	5.0.2
+01_chipseq_upstream	MultiQC	1.13.dev0
+02_asb_baalchip	R	4.0.5
+02_asb_baalchip	BaalChIP	1.24.0
+02_asb_baalchip	Bowtie2	2.2.5
+02_asb_baalchip	SAMtools	1.9
+02_asb_baalchip	Picard	2.25.1
+03_tfpair_spacing	HOMER	4.11.1
+03_tfpair_spacing	BEDTools	2.30.0
+03_tfpair_spacing	JASPAR motif 2024
+03_tfpair_spacing	Spacing pipeline 2022
+04_sbsi_tfs_overlap	BEDTools	2.30.0
+05_mcl_community	MCL	22-282
+05_mcl_community	R	4.0.5
+
