@@ -1,7 +1,6 @@
 # Pipeline overview and pseudocode
 
 This file provides a compact workflow description for the packaged analysis modules.
-It can be cited in the code availability statement and used to complete the Nature software checklist item asking where pseudocode or detailed functionality is documented.
 
 ## Module 01 - ChIP-seq upstream analysis
 **Input:** raw FASTQ files, reference genome, Bowtie2 index, blacklist BED, chromosome sizes, sample-group table
