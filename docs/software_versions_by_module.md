@@ -1,6 +1,6 @@
 # Software versions by module
 
-The table below summarizes the software versions explicitly mentioned in the manuscript STAR Methods table and mapped to the packaged code modules in this repository.
+The table below summarizes the software versions explicitly mentioned in the manuscript Methods table and mapped to the packaged code modules in this repository.
 
 ## Module 01 - ChIP-seq upstream analysis
 - FastQC 0.11.9
