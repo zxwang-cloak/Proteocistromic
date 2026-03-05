@@ -8,13 +8,11 @@
 
 ## Software versions
 
-Versions taken from the manuscript STAR Methods workbook are summarized in:
 
 - `docs/software_and_algorithms_star_methods.tsv`
 - `docs/software_versions_used_in_repo.tsv`
 - `docs/software_versions_by_module.md`
 
-Where a module also needs a runtime not explicitly versioned in STAR Methods (for example Python itself), the requirement is documented in that module's `envs/` and `docs/` directory.
 
 ## Pseudocode and workflow descriptions
 
