@@ -1,6 +1,5 @@
 # Module 03 - TF-pair spacing analysis
 
-This module packages the TF-pair spacing workflow into a parameterized, GitHub-ready structure.
 
 ## What the refactored module does
 
